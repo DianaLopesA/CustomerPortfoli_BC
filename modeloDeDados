@@ -1,0 +1,6 @@
+Customer Portfolio (Custom Object): junction entre User e Account/Contact.
+User__c: Lookup para User.
+Customer__c: Lookup para Account (e/ou Contact se necessário).
+Source__c: Picklist (Internal, External).
+Favorite__c: Checkbox.
+ExternalId__c: Texto, único (UserCode_CustomerId).
