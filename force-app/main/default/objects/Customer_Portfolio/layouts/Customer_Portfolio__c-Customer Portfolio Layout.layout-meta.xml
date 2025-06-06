@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Customer_Portfolio__c-Customer Portfolio Layout</fullName>
+    <layoutSections>
+        <customLabel>false</customLabel>
+        <detailHeading>true</detailHeading>
+        <editHeading>true</editHeading>
+        <label>Main Information</label>
+        <layoutColumns>2</layoutColumns>
+        <layoutRows>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>User__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Customer__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Source__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>IsFavorite__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>ExternalId__c</field>
+            </layoutItems>
+        </layoutRows>
+        <style>TwoColumnsTopToBottom</style>
+    </layoutSections>
+    <showEmailCheckbox>false</showEmailCheckbox>
+    <showHighlightsPanel>true</showHighlightsPanel>
+    <showInteractionLogPanel>false</showInteractionLogPanel>
+    <showKnowledgeComponent>false</showKnowledgeComponent>
+    <showSubmitAndAttachButton>false</showSubmitAndAttachButton>
+</Layout>
