@@ -1,0 +1,15 @@
+{
+  "orgName": "Customer Portfolio Business Case Test",
+  "edition": "Enterprise",
+  "features": [
+    "AuthorApex",
+    "CustomMetadata",
+    "RecordTypes"
+  ],
+  "settings": {
+    "orgPreferenceSettings": {
+      "s1DesktopEnabled": true,
+      "chatterEnabled": true
+    }
+  }
+}
