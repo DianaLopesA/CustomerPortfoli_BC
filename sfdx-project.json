@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "CustomerPortfolio_BC",
+  "name": "CustomerPortfoli_BC",
   "namespace": "",
   "sourceApiVersion": "60.0", 
   "sfdcLoginUrl": "https://login.salesforce.com",
