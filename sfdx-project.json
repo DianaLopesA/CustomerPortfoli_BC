@@ -1,0 +1,13 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "CustomerPortfolio_BC",
+  "namespace": "",
+  "sourceApiVersion": "60.0", 
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "packageAliases": {}
+}
